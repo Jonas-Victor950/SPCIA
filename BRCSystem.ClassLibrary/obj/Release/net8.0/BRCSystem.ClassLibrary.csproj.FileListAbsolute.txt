@@ -1,0 +1,13 @@
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\bin\Release\net8.0\BRCSystem.ClassLibrary.deps.json
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\bin\Release\net8.0\BRCSystem.ClassLibrary.dll
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\bin\Release\net8.0\BRCSystem.ClassLibrary.pdb
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.AssemblyInfo.cs
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.sourcelink.json
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.dll
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\refint\BRCSystem.ClassLibrary.dll
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\BRCSystem.ClassLibrary.pdb
+C:\Users\gosantos\source\repos\61124\backend\BRCSystem.ClassLibrary\obj\Release\net8.0\ref\BRCSystem.ClassLibrary.dll

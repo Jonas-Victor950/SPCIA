@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="GetEntities\SQC\**" />
+    <Compile Remove="SCD\**" />
+    <EmbeddedResource Remove="GetEntities\SQC\**" />
+    <EmbeddedResource Remove="SCD\**" />
+    <None Remove="GetEntities\SQC\**" />
+    <None Remove="SCD\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.SecretsManager" Version="4.0.0-preview" />
+    <PackageReference Include="AWSSDK.SecurityToken" Version="4.0.0-preview" />
+    <PackageReference Include="Cuemon.AspNetCore.Mvc" Version="8.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.5.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
+  </ItemGroup>
+
+</Project>
