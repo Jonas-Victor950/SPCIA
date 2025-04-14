@@ -2,6 +2,8 @@
 Este projeto é uma app microserviço desenvolvida com .NET 8, com foco em escalabilidade, segurança e arquitetura moderna.
 Implementa autenticação JWT, controle de permissões por cargo, integração com serviços AWS, deploy com Docker e Kubernetes, e banco de dados MySQL.
 
+🔍 Nota: Essa app é uma das muitas que trabalho, estou deixando ela como exemplo de como está meu desenvolvimento atual.
+
 🛡️ Permissionamento baseado em cargos (ex: Admin, Gerente, Usuário) com verificação por middleware
 
 🧩 Arquitetura organizada com:
